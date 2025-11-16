@@ -71,5 +71,5 @@ g.primMST();
 
 
 ## RESULT:
-Hence, The program is successfully executed and the Minimum Spanning Tree (MST) of the given connected, undirected, and weighted graph is obtained using Prim's algorithm.
+Hence, The program is successfully executed and the Minimum Spanning Tree (MST) of the given connected, undirected, and weighted graph is obtained using Prim's algorithm. 
 
